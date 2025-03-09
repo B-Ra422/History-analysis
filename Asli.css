@@ -1,0 +1,32 @@
+#par{
+    direction: rtl;
+    font-size: large;
+    @font-face {
+        font-family:B Koodak ;
+        src: url(B Koodak Bold_YasDL.com.ttf);
+    }
+    font-family: B koodak;
+}
+#par2{
+    direction: rtl;
+    font-size: medium;
+    @font-face {
+        font-family:B Koodak ;
+        src: url(B Koodak Bold_YasDL.com.ttf);
+    }
+    font-family: B koodak;
+}
+#b{
+    @font-face {
+        font-family:B Koodak ;
+        src: url(B Koodak Bold_YasDL.com.ttf);
+    }
+    font-family: B koodak;
+}
+#a{
+    @font-face {
+        font-family:B Koodak ;
+        src: url(B Koodak Bold_YasDL.com.ttf);
+    }
+    font-family: B koodak;
+}
